@@ -29,4 +29,4 @@ async def on_ready():
     print(f'{bot.user.name} has connected to Discord!')
     await bot.tree.sync()
 
-bot.run('MTIzODUwMDAxMjM2MzYxMjE5MA.GWnf5t.8vpvc0zg588dEA-osdyg03-4AGvnn_nzNjKFSs')
+bot.run('MTIzODUwMDAxMjM2MzYxMjE5MA.GQy7wB.aSKnrZ252oU4lI-1W4dxIjD2NUCzXTRnyzSVaU')
